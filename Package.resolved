@@ -78,8 +78,8 @@
         "repositoryURL": "https://github.com/vapor/postgres-nio.git",
         "state": {
           "branch": null,
-          "revision": "046d3ba1a40c5d2e2457177f4311b0b9c97f8945",
-          "version": "1.6.2"
+          "revision": "abca6b390235ae337999d367c40cc40c99629385",
+          "version": "1.18.1"
         }
       },
       {
